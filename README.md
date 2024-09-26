@@ -1,4 +1,4 @@
-# EBNF for Compiler24 Language
+# EBNF for PSS2 Language
 
 ### Digit Definition:
 ```ebnf
