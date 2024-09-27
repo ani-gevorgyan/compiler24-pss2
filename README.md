@@ -36,7 +36,7 @@ This defines the basic structure of the language, recognizing numbers (sequences
 
 #### ✅ Correct Code:
 ```plaintext
-5+10=15
+4 + 67= 71
 ```
 - **Explanation**: The code consists of numbers and valid lexemes (`+`, `=`), making it a valid expression.
 
